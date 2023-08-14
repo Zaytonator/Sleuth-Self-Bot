@@ -11,11 +11,10 @@
 - PFP: Display the profile picture of a member.
 - GetUser: Retrieve information about a user's Discord account.
 
-<!-- Add more features as needed -->
 
 ## Screenshots
 
-<!-- Insert screenshots showcasing bot usage -->
+
 
 ## Information and Licensing
 
