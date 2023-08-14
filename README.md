@@ -14,7 +14,7 @@
 
 ## Screenshots
 
-
+<img src="readme-assets/welcome text screenshot.PNG" width="800">
 
 ## Information and Licensing
 
