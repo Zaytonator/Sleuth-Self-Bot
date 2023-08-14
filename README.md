@@ -15,7 +15,7 @@
 ## Screenshots
 
 <img src="readme-assets/welcome text screenshot.PNG" width="1000">
-<img src="readme-assets/authentication.png" width="1000">
+<img src="readme-assets/authentication.png" width="800">
 
 
 
