@@ -1,15 +1,32 @@
-# Sleuth-Self-Bot-Auth
+<div align="center">
+  <h1>Sleuth | Self Bot</h1>
+  <img src="path_to_banner_image.png" alt="Banner Image" width="800">
+</div>
 
-```python
-header = f"""
-\x1b[38;2;135;206;250m  ______   __        ________  __    __  ________  __    __     \x1b[0m     \x1b[38;2;225;0;255m  ______   ________  __        ________  _______    ______  ________    \x1b[0m
-\x1b[38;2;131;191;247m /      \ |  \      |        \|  \  |  \|        \|  \  |  \   \x1b[0m      \x1b[38;2;221;3;253m /      \ |        \|  \      |        \|       \  /      \|        \   \x1b[0m
-\x1b[38;2;127;176;244m|  $$$$$$\| $$      | $$$$$$$$| $$  | $$ \$$$$$$$$| $$  | $$   \x1b[0m      \x1b[38;2;217;6;251m|  $$$$$$\| $$$$$$$$| $$      | $$$$$$$$| $$$$$$$\|  $$$$$$\\$$$$$$$$   \x1b[0m
-\x1b[38;2;123;161;241m| $$___\$$| $$      | $$__    | $$  | $$   | $$   | $$__| $$   \x1b[0m      \x1b[38;2;213;9;249m| $$___\$$| $$__    | $$      | $$__    | $$__/ $$| $$  | $$  | $$      \x1b[0m
-\x1b[38;2;119;146;238m \$$    \ | $$      | $$  \   | $$  | $$   | $$   | $$    $$   \x1b[0m      \x1b[38;2;209;12;247m \$$    \ | $$  \   | $$      | $$  \   | $$    $$| $$  | $$  | $$      \x1b[0m
-\x1b[38;2;115;131;235m _\$$$$$$\| $$      | $$$$$   | $$  | $$   | $$   | $$$$$$$$   \x1b[0m      \x1b[38;2;205;15;245m _\$$$$$$\| $$$$$   | $$      | $$$$$   | $$$$$$$\| $$  | $$  | $$      \x1b[0m
-\x1b[38;2;111;116;232m|  \__| $$| $$_____ | $$_____ | $$__/ $$   | $$   | $$  | $$   \x1b[0m      \x1b[38;2;201;18;243m|  \__| $$| $$_____ | $$_____ | $$      | $$__/ $$| $$__/ $$  | $$     \x1b[0m
-\x1b[38;2;107;101;229m \$$    $$| $$     \| $$     \ \$$    $$   | $$   | $$  | $$   \x1b[0m      \x1b[38;2;197;21;241m \$$    $$| $$     \| $$     \| $$      | $$    $$ \$$    $$  | $$      \x1b[0m
-\x1b[38;2;103;86;226m  \$$$$$$  \$$$$$$$$ \$$$$$$$$  \$$$$$$     \$$    \$$   \$$  \x1b[0m       \x1b[38;2;193;24;239m  \$$$$$$  \$$$$$$$$ \$$$$$$$$ \$$       \$$$$$$$   \$$$$$$    \$$     \x1b[0m
-"""
-```
+## Features
+
+- Snipe: Retrieve deleted messages.
+- Ping: Display the bot's latency.
+- Random: Generate a random number within a specified range.
+- PFP: Display the profile picture of a member.
+- GetUser: Retrieve information about a user's Discord account.
+
+<!-- Add more features as needed -->
+
+## Screenshots
+
+<!-- Insert screenshots showcasing bot usage -->
+
+## Information and Licensing
+
+Welcome to Sleuth | Self Bot!
+
+Developed by Zaytonator
+Copyright © 2023 Zachary Ayton
+
+**Important Notice:** All rights reserved. This code is protected under copyright law and is not for individual distribution, modification, sale, or any form of unauthorized use. Unauthorized use may result in legal action and penalties as per applicable laws. By using this bot, you agree to comply with these terms and respect the developer's intellectual property rights.
+
+## Discord Server
+
+Join our Discord server for updates, support, and discussions:
+[Discord Server Invite Link](https://discord.gg/your_invite_link_here)
