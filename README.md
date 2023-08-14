@@ -15,8 +15,10 @@
 ## Screenshots
 
 <img src="readme-assets/welcome text screenshot.PNG" width="1000">
-<img src="" width="1000">
-## Information and Licensing
+<img src="readme-assets/authentication.png" width="1000">
+
+
+
 
 Welcome to Sleuth | Self Bot!
 
