@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Sleuth | Self Bot</h1>
-  <img src="path_to_banner_image.png" alt="Banner Image" width="800">
+  <img src="readme-assets/banner.PNG" width="800">
 </div>
 
 ## Features
