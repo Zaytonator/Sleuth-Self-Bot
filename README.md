@@ -45,4 +45,4 @@ Founder and Developer
 ## Discord Server
 
 Join our Discord server for updates, support, and discussions:
-[Discord Server Invite Link]([https://discord.gg/your_invite_link_here](https://discord.gg/7E3T5ctmBB)https://discord.gg/7E3T5ctmBB)
+[Sleuth Discord]([https://discord.gg/your_invite_link_here](https://discord.gg/7E3T5ctmBB)https://discord.gg/7E3T5ctmBB)
